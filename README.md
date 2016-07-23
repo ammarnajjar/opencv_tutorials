@@ -1,3 +1,3 @@
-# My Opencv works
+# Opencv Tutorials
 
-ALl my opencv related stuff.
+A collection of tested opencv tutorials.
